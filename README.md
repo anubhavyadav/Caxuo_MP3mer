@@ -19,7 +19,7 @@
 Whether you're editing videos or creating content for social media, Caxuo MP3MER makes trimming MP3 audio effortless and intuitive.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f6bc841-6568-4b7d-82fc-9a2dc539efbb" alt="Caxuo MP3MER App for Windows home Screen" width="666" height="607" />
+  <img src="https://github.com/user-attachments/assets/9f556a12-5c0a-48bc-b5f1-b736913c6637" alt="Caxuo MP3MER App for Windows home Screen" width="1002" height="917" />
 </p>
 
 📣 **We welcome your feedback and suggestions** to help improve and evolve this app. Contributions and ideas from the community are greatly appreciated!
