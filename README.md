@@ -1,3 +1,6 @@
+
+<img width="670" height="670" alt="01_new_logo_caxuo_mp3mer_orig_size" src="https://github.com/user-attachments/assets/dabf41ff-4d90-48e7-9b32-d0bd7e678eeb" />
+
 **Caxuo MP3mer**
 
 Free GUI based MP3 Cutter built in Python for WIndows.
