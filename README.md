@@ -22,7 +22,13 @@ Whether you're editing videos or creating content for social media, Caxuo MP3MER
   <img src="https://github.com/user-attachments/assets/9f556a12-5c0a-48bc-b5f1-b736913c6637" alt="Caxuo MP3MER App for Windows home Screen" width="501" height="458" />
 </p>
 
+---
+
 📣 **We welcome your feedback and suggestions** to help improve and evolve this app. Contributions and ideas from the community are greatly appreciated!
+
+**Raise a issue** >> https://github.com/anubhavyadav/caxuomp3mer/issues
+
+**Start a Discussion** >> https://github.com/anubhavyadav/caxuomp3mer/discussions
 
 ---
 
