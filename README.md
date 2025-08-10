@@ -21,6 +21,11 @@ Whether you're editing videos or creating content for social media, Caxuo MP3MER
 📣 **We welcome your feedback and suggestions** to help improve and evolve this app. Contributions and ideas from the community are greatly appreciated!
 
 ---
-**Go to Download page** >> https://github.com/anubhavyadav/caxuomp3mer/releases/tag/v1.0.2
+
 
 **To learn more, please visit** >> https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
+
+---
+
+
+**Go to Download page** >> https://github.com/anubhavyadav/caxuomp3mer/releases/tag/v1.0.2
