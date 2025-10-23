@@ -32,7 +32,7 @@ Whether you're editing videos or creating content for social media, Caxuo MP3MER
 
 **Raise a issue** >> https://github.com/anubhavyadav/caxuomp3mer/issues
 
-**Start a Discussion** >> https://github.com/anubhavyadav/caxuomp3mer/discussions
+
 
 <br>
 
@@ -42,4 +42,4 @@ Whether you're editing videos or creating content for social media, Caxuo MP3MER
 ---
 
 
-**Go to Download page** >> https://github.com/anubhavyadav/caxuomp3mer/releases/tag/v1.0.2
+**Go to Download page** >> https://github.com/anubhavyadav/Caxuo_MP3mer/releases/latest
