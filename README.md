@@ -5,7 +5,7 @@
 <h2 align="center">🎧 Caxuo MP3MER for Windows</h2>
 
 <p align="center">
-  <em>A free and simple MP3 cutter/trimmer for creators and editors</em>
+  <em>A free and portable MP3 cutter/trimmer for creators and editors</em>
 </p>
 
 ---
@@ -32,7 +32,7 @@ Whether you're editing videos or creating content for social media, Caxuo MP3MER
 
 ---
 
-📣 **We welcome your feedback and suggestions** to help improve and evolve this app. Contributions and ideas from the community are greatly appreciated!
+📣 **We welcome your feedback and suggestions** to help improve and evolve this app.
 
 **Raise a issue** >> https://github.com/anubhavyadav/caxuomp3mer/issues
 
