@@ -45,10 +45,11 @@ Perfect for creators, editors, and casual users who need quick and clean audio c
 
 ---
 
-### 💬 Community & Feedback
-We welcome your ideas, suggestions, and issues to improve the app further:  
-🔗 [Open an Issue](https://github.com/anubhavyadav/caxuomp3mer/issues)  
-📰 [Learn More on LevelUp Blog](https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html)
+📣 **We welcome your feedback and suggestions** to help improve and evolve this app.  
+Contributions and ideas from the community are greatly appreciated!
+
+- **Raise an issue** >> [https://github.com/anubhavyadav/caxuopicorg/issues](https://github.com/anubhavyadav/caxuomp3mer/issues)  
+- **Learn more** >> https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
 
 ---
 
