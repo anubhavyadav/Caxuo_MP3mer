@@ -1,20 +1,26 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/00b8f870-3b87-412f-a53b-3dab7433c245" alt="Caxuo MP3MER Logo" width="180" height="180" />
+  <img width="200" alt="Caxuo MP3MER App Logo" src="https://github.com/user-attachments/assets/00b8f870-3b87-412f-a53b-3dab7433c245"/>
 </p>
 
 <h2 align="center">🎧 Caxuo MP3MER for Windows</h2>
 
-<p align="center"><em>A free and portable MP3 cutter/trimmer for creators and editors</em></p>
-
 <p align="center">
-  <a href="https://github.com/anubhavyadav/Caxuo_MP3mer/releases/latest"><strong>⬇️ Download Latest Release – Free Portable EXE</strong></a>
+  <em>A free and portable MP3 cutter/trimmer for creators and editors</em>
 </p>
+
+---
+
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_MP3mer/releases/latest
 
 ---
 
 ### 💡 About
 **Caxuo MP3MER** is a lightweight, intuitive, and portable MP3 editor that lets you **trim, merge, and export MP3 files instantly** — no installation, no ads, and no bloatware.  
 Perfect for creators, editors, and casual users who need quick and clean audio cuts.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f556a12-5c0a-48bc-b5f1-b736913c6637" alt="Caxuo MP3MER App for Windows Home Screen" width="501" height="458" />
+</p>
 
 ---
 
@@ -39,20 +45,18 @@ Perfect for creators, editors, and casual users who need quick and clean audio c
 - 🎛️ FFMPEG backend for high-quality encoding  
 - 🎨 Designed for simplicity and speed  
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9f556a12-5c0a-48bc-b5f1-b736913c6637" alt="Caxuo MP3MER App for Windows Home Screen" width="501" height="458" />
-</p>
+
 
 ---
 
-📣 **We welcome your feedback and suggestions** to help improve and evolve this app.  
-Contributions and ideas from the community are greatly appreciated!
+### ❤️ Community & Feedback
 
-- **Raise an issue** >> [https://github.com/anubhavyadav/caxuopicorg/issues](https://github.com/anubhavyadav/caxuomp3mer/issues)  
-- **Learn more** >> https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
+📣 **We welcome your feedback and suggestions** to help improve and evolve this app.
+
+- **Raise an issue >>** https://github.com/anubhavyadav/Caxuo_MP3mer/issues
+
+- **Learn more about all Caxuo Apps >>** https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
 
 ---
 
-<p align="center">
-  <a href="https://github.com/anubhavyadav/Caxuo_MP3mer/releases/latest"><strong>⬇️ Download Caxuo MP3MER – Free for Windows</strong></a>
-</p>
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_MP3mer/releases/latest
