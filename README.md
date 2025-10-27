@@ -19,7 +19,7 @@
 **Caxuo MP3MER** is a Free, lightweight and portable MP3 cutter for Windows that lets you **trim and export MP3 files instantly** — no installation, no ads, and no bloatware.  
 
 <p align="center">
-  <img width="501" alt="Caxuo MP3MER App Home Screen LAyout" src="https://github.com/user-attachments/assets/9f556a12-5c0a-48bc-b5f1-b736913c6637"/>
+  <img width="602" alt="Caxuo MP3MER App Home Screen LAyout" src="https://github.com/user-attachments/assets/9f556a12-5c0a-48bc-b5f1-b736913c6637"/>
 </p>
 
 ---
