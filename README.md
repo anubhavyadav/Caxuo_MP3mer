@@ -10,42 +10,36 @@
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_MP3mer/releases/latest
+👉 **Go to Download page >>** https://github.com/anubhavyadav/Caxuo_MP3mer/releases/latest
 
 ---
+### 📌 About the App
 
-### 💡 About
-**Caxuo MP3MER** is a lightweight, intuitive, and portable MP3 editor that lets you **trim, merge, and export MP3 files instantly** — no installation, no ads, and no bloatware.  
-Perfect for creators, editors, and casual users who need quick and clean audio cuts.
+
+**Caxuo MP3MER** is a Free, lightweight and portable MP3 cutter for Windows that lets you **trim and export MP3 files instantly** — no installation, no ads, and no bloatware.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9f556a12-5c0a-48bc-b5f1-b736913c6637" alt="Caxuo MP3MER App for Windows Home Screen" width="501" height="458" />
+  <img width="501" alt="Caxuo MP3MER App Home Screen LAyout" src="https://github.com/user-attachments/assets/9f556a12-5c0a-48bc-b5f1-b736913c6637"/>
 </p>
 
 ---
 
-### ⚙️ Why Choose Caxuo MP3MER?
-- 🚀 **Portable & Lightweight** — No setup, just unzip and run.  
-- 🔒 **Offline & Secure** — Works completely without internet.  
-- 🧠 **Simple UI** — Trim, preview, and export in seconds.  
-- 🪶 **No Ads. No Tracking. No Account Required.**  
-- 💼 **Free under MIT License** — For both personal and commercial use.
+### 🛠️ Quick Start Guide
+
+1. 📥 Download & unzip the package (keep in a folder other than Desktop)
+2. 🖥️ Run the **EXE** file or its shortcut
+3. 📂 Browse and Open the MP3 to be trimmed/cut
+4. 🎚️ Set the trim points by using **Play**, **Pause**, **Set Start** and **Set End buttons**
+5. ▶️ Press **Export MP3** button to choose the Output directory and save the trimed MP3
 
 ---
 
-### 🛠️ Quick Start
-1. 📥 [Download ZIP](https://github.com/anubhavyadav/Caxuo_MP3mer/releases/latest) and extract it.  
-2. 🖥️ Run `Caxuo_MP3MER.exe`.  
-3. 🎚️ Add an MP3 file, set trim points, and export instantly.
+### 💡 Advantages - Why Choose Caxuo MP3MER?
 
----
-
-### 🧩 Built With
-- 🐍 Python (Pygame + CustomTkinter)  
-- 🎛️ FFMPEG backend for high-quality encoding  
-- 🎨 Designed for simplicity and speed  
-
-
+- 🚀 Free to use, Lightweight & portable — no installation needed 
+- 🔒 Works 100% offline (No Adware or Bloatware) 
+- 🧠 Simple UI design to Trim and Export MP3 in seconds
+- 💻 Easily Remove from Computer by just Deleteing the Entire Folder (No uninstallation required)
 
 ---
 
@@ -59,4 +53,4 @@ Perfect for creators, editors, and casual users who need quick and clean audio c
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_MP3mer/releases/latest
+👉 **Go to Download page >>** https://github.com/anubhavyadav/Caxuo_MP3mer/releases/latest
