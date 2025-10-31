@@ -15,31 +15,20 @@
 ---
 ### 📌 About the App
 
-
-**Caxuo MP3MER** is a Free, lightweight and portable MP3 cutter for Windows that lets you **trim and export MP3 files instantly** — no installation, no ads, and no bloatware.  
+- **Caxuo MP3MER** is a Free, lightweight and portable MP3 cutter for Windows that lets you **trim and export MP3 files instantly** — no installation, no ads, and no bloatware.  
 
 <p align="center">
-  <img width="602" alt="Caxuo MP3MER App Home Screen LAyout" src="https://github.com/user-attachments/assets/9f556a12-5c0a-48bc-b5f1-b736913c6637"/>
+  <img width="602" alt="Caxuo MP3MER App Home Screen Layout" src="https://github.com/user-attachments/assets/9f556a12-5c0a-48bc-b5f1-b736913c6637"/>
 </p>
-
----
-
-### 🛠️ Quick Start Guide
-
-1. 📥 Download & unzip the package (keep in a folder other than Desktop)
-2. 🖥️ Run the **EXE** file or its shortcut
-3. 📂 Browse and Open the MP3 to be trimmed/cut
-4. 🎚️ Set the trim points by using **Play**, **Pause**, **Set Start** and **Set End buttons**
-5. ▶️ Press **Export MP3** button to choose the Output directory and save the trimed MP3
 
 ---
 
 ### 💡 Advantages - Why Choose Caxuo MP3MER?
 
-- 🚀 Free to use, Lightweight & portable — no installation needed 
-- 🔒 Works 100% offline (No Adware or Bloatware) 
-- 🧠 Simple UI design to Trim and Export MP3 in seconds
-- 💻 Easily Remove from Computer by just Deleteing the Entire Folder (No uninstallation required)
+- 🚀 **Free to use, Lightweight & portable** - runs instantly, no installation needed.
+- 🔒 **Works offline** - no internet or login required (No Adware or Bloatware).
+- 🧠 **Simple UI design with step-by-step guidance** - Trim and Export MP3 in seconds.
+- 💻 **Easily Remove the App from your Computer** - just Delete its unzipped Folder (No uninstallation required).
 
 ---
 
